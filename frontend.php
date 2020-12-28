@@ -47,7 +47,7 @@ get_header();
 				'field_5c9ca6543a562',	// ingredients
 				'field_5c9ca6723a563',	// directions
 				'field_5c9ca67d3a564',	// category
-				'field_5c9ca6f83a565',	// category
+				'field_5c9ca6f83a565',	
 				'field_5fe9b869620d1',
 				'field_5fe9bcaf5a390',
 				'field_5fe9bcc45a391',
